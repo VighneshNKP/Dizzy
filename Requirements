@@ -1,0 +1,13 @@
+Following Libraries are required. They can be installed using pip. 
+
+speech_recognition
+threading
+playsound
+time
+moviepy 
+subprocess
+psutil
+pywhatkit
+random
+datetime
+beepy
